@@ -9,7 +9,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1oTXvVS-XsaRkPcUihk_dTPQNcFkR6j7N/view?usp=share_link](https://drive.google.com/file/d/1oTXvVS-XsaRkPcUihk_dTPQNcFkR6j7N/view?usp=share_link)
 
-- ⚡ Fun fact <ol>
+- ⚡ Fun fact 
+<ol>
 <li>Have worked as a social worker for 6 years</li>
 <li>A music and coffee enthusiast</li>
 <li>Move from Macao on 29/09/2022</li>
